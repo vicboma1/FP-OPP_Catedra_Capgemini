@@ -4,6 +4,10 @@
 ```
  Fechas: 
  
+ Fecha ??
+ Charla Capgemini Valencia - Kotlin v1.1.1
+ pptx: ??
+ 
  02/03/2017
  Charla Universidad Politécnica de Valencia - https://www.upv.es/ 
  Asingnatura : Auditoria, Calidad y Gestion de Sistemas de Información (ACG)
